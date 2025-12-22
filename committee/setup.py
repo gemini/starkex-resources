@@ -9,7 +9,7 @@ setup(
         'aioredis==1.2.0',
         'fastecdsa==1.7.2',
         'marshmallow-dataclass==7.1.0',
-        'marshmallow==3.2.1',
+        'marshmallow==3.26.2',
         'PyYAML==5.1',
         'requests == 2.22.0',
     ]
